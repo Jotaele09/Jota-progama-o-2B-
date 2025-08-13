@@ -1,26 +1,51 @@
-
-
 <html lang="pt-br">
+
 <head>
+<link rel="stylesheet" href="style.css">
 <meta charset="UTF-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=s, initial-scale=1.0">
-<link rel="stylesheet" href="jl.css">
-<title>meu portfolio</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AluraFlix</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+<link rel="preconnect" href="https://fonts.gstatic.com&quot; crossorigin>
+<link
+href="https://fonts.googleapis.com/css2?family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap&quot;
+rel="stylesheet">
 </head>
+
 <body>
-<header class="container">
-<div class="container">
-<!-- Content here -->
+<header>AluraFlix</header>
+<section class="chamada">
+<div class="chamada-texto">
+<h1>UM POUCO MAIS SOBRE ENEM</h1>
+<P>#preparação</P>
 </div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8O_EDQM3u-l7ybRgCimF9ytnI5HrkL5b1ANN4SvT5CXgfOa3pRuD6x_PIITPUorhSKjQ&usqp=CAU"
-<p> Eu sou o homunculo </p>
-<h1> Homunculo </h1>
-<p>Grande caçador da ilha renomado por derrotar as criaturas corrompidas . <br>
-Que brevemente se tornou o rei de toda ilha por tod sua glória obtida. <br>
- é o protagonista do mundo de Dead Cells .</p>
+<div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jq_kcNYzUo?si=7e-fLGP7mwlqVpwJ&quot;
+title="YouTube video player" frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</section>
+<section class="categoria">
+<h2>Escolha seu conteúdo</h2>
+<div class="categoria-videos">
+<a href="https://www.youtube.com/watch?v=myS0xE4XMJc"&gt;
+<img src="https://img.youtube.com/vi/myS0xE4XMJc/maxresdefault.jpg"&gt;
+</a>
 
+<a href="https://www.youtube.com/watch?v=KzNRjcrXL6E"&gt;
+<img src="https://img.youtube.com/vi/KzNRjcrXL6E/maxresdefault.jpg"&gt;
+</a>
 
-</header>
+<a href= https://youtu.be/gX4cGcwmdsY?si=Dg7ZoZxSxUY9pkdl
+<img src="https://i.ytimg.com/vi/o1j3G9T1HTo/hqdefault.jpg"&gt;
+</a>
+
+</div>
+</section>
+
 </body>
+
 </html>
+
+

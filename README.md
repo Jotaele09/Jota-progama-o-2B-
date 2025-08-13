@@ -13,7 +13,7 @@
 <div class="container">
 <!-- Content here -->
 </div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0JpUrCl4uxY4RMJ0PvLiSjhu4A8mPLCvkfWtdlf-ym_tR2h9kZMmNvtpNg_NRCIkCrc&usqp=CAU"/&gt;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF0JpUrCl4uxY4RMJ0PvLiSjhu4A8mPLCvkfWtdlf-ym_tR2h9kZMmNvtpNg_NRCIkCrc&usqp=CAU"
 <p> Eu sou o homunculo </p>
 <h1> Homunculo </h1>
 <p>Grande caçador da ilha renomado por derrotar as criaturas corrompidas . <br>

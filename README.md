@@ -33,7 +33,7 @@
 <img src="img.youtube.com/vi/iC6AZ_8Ea48/maxresdefault.jpg">
 
 <a href="https://www.youtube.com/watch?v=oTfkqJrzU6s"></a>
-<img src="https://img.youtube.com/vi/oTfkqJrzU6s/maxresdefault.jpg">
+<img src="https://img.youtube.com/vi/3cDUTxV1Pbo/maxresdefault.jpg">
 
 <a href="https://www.youtube.com/watch?v=QMqEkDiGL3U"></a>
 <img src="https://img.youtube.com/vi/QMqEkDiGL3U/maxresdefault.jpg">

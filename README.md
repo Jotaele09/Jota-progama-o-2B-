@@ -30,7 +30,7 @@
 <h2>Escolha seu conteúdo</h2>
 <div class="categoria-videos">
 <a href="https://www.youtube.com/watch?v=Eu3zfCDbRoU"></a>
-<img src="https://img.youtube.com/vi/AlVqndtXUus/maxresdefault.jp">
+<img src="https://img.youtube.com/vi/Eu3zfCDbRoU/maxresdefault.jp">
 
 <a href="https://www.youtube.com/watch?v=oTfkqJrzU6s"></a>
 <img src="https://img.youtube.com/vi/3cDUTxV1Pbo/maxresdefault.jpg">

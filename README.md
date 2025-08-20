@@ -29,8 +29,8 @@
 <section class="categoria">
 <h2>Escolha seu conteúdo</h2>
 <div class="categoria-videos">
-<a href="https://www.youtube.com/watch?v=Z1L8OnP_E9I"></a>
-<img src="">
+<a href="https://www.youtube.com/watch?v=Eu3zfCDbRoU"></a>
+<img src="https://img.youtube.com/vi/AlVqndtXUus/default.jpg">
 
 <a href="https://www.youtube.com/watch?v=oTfkqJrzU6s"></a>
 <img src="https://img.youtube.com/vi/oTfkqJrzU6s/maxresdefault.jpg">

@@ -16,7 +16,7 @@
 <body>
     <header class="containertextomeio">
 
-        <img src="https://pm1.aminoapps.com/9069/59280934545bbdc411c6f17e4152356caacb042fr1-759-759v2_00.jpg"
+        <img src="https://community.custom-cursor.com/uploads/default/original/4X/3/a/1/3a153e3c2334ba3f1019f4a0587356d438b57777.jpeg"
             class="rounded-circle" width="150" height="150" alt="avatar sophia" srcset="">
         <p class="lead">Eu sou o Homunculo</p>
         <h1>Sou um dos sobreveviventes desta ilha </h1>

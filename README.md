@@ -18,9 +18,9 @@
 
         <img src="https://pm1.aminoapps.com/9069/59280934545bbdc411c6f17e4152356caacb042fr1-759-759v2_00.jpg"
             class="rounded-circle" width="150" height="150" alt="avatar sophia" srcset="">
-        <p class="lead">Eu sou o Joe_</p>
-        <h1>sou estudante </h1>
-        <p>gosto de sair com minha amiga sara, e com a ryoko</p>
+        <p class="lead">Eu sou o Homunculo</p>
+        <h1>Sou um dos sobreveviventes desta ilha </h1>
+        <p>Preciso exterminar todo mal desta ilha</p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/JO5oHDuiG8o?si=nI2LDnJt1ev6CVDs"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

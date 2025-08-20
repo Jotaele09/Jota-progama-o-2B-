@@ -35,8 +35,8 @@
 <a href="https://www.youtube.com/watch?v=oTfkqJrzU6s"></a>
 <img src="https://img.youtube.com/vi/3cDUTxV1Pbo/maxresdefault.jpg">
 
-<a href="https://www.youtube.com/watch?v=3Uv-iw8AIHo"></a>
-<img src="https://img.youtube.com/vi/iw8AIHo/maxresdefault.jpg">
+<a href="https://www.youtube.com/watch?v=XTcHsVEf_hs"></a>
+<img src="https://img.youtube.com/vi/XTcHsVEf/maxresdefault.jpg">
 
 </div>
 </section>

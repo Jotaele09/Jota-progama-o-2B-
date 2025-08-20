@@ -21,7 +21,7 @@
         <p class="lead">Eu sou o Homunculo</p>
         <h1>Sou um dos sobreveviventes desta ilha </h1>
         <p>Preciso exterminar todo mal desta ilha</p>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/JO5oHDuiG8o?si=nI2LDnJt1ev6CVDs"
+        <iframe width="560" height="315" src="https://youtu.be/gX4cGcwmdsY?si=QXcb6x_n2vDxZUl0"
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

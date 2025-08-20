@@ -1,3 +1,49 @@
-<html lang="pt-br"><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=s, initial-scale=1.0"><link rel="stylesheet" href="jl.css"><title>meu portfolio</title></head><body><header class="container"><div class="container"><!-- Content here --></div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8O_EDQM3u-l7ybRgCimF9ytnI5HrkL5b1ANN4SvT5CXgfOa3pRuD6x_PIITPUorhSKjQ&usqp=CAU"<p> Eu sou o homunculo </p><h1> Homunculo </h1><p>Grande caçador da ilha renomado por derrotar as criaturas corrompidas . <br>Que brevemente se tornou o rei de toda ilha por tod sua glória obtida. <br>é o protagonista do mundo de Dead Cells .</p></header></body></html>
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Libertinus+Mono&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Meu portifólio</title>
+</head>
+
+<body>
+    <header class="containertextomeio">
+
+        <img src="https://pm1.aminoapps.com/9069/59280934545bbdc411c6f17e4152356caacb042fr1-759-759v2_00.jpg"
+            class="rounded-circle" width="150" height="150" alt="avatar sophia" srcset="">
+        <p class="lead">Eu sou o Joe_</p>
+        <h1>sou estudante </h1>
+        <p>gosto de sair com minha amiga sara, e com a ryoko</p>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/JO5oHDuiG8o?si=nI2LDnJt1ev6CVDs"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+</section>
+<section class="categoria">
+<h2>Escolha seu conteúdo</h2>
+<div class="categoria-videos">
+<a href="https://www.youtube.com/watch?v=Z1L8OnP_E9I"></a>
+<img src="https://img.youtube.com/vi/Z1L8OnP_E9I/maxresdefault.jpg">
+
+<a href="https://www.youtube.com/watch?v=oTfkqJrzU6s"></a>
+<img src="https://img.youtube.com/vi/oTfkqJrzU6s/maxresdefault.jpg">
+
+<a href="https://www.youtube.com/watch?v=QMqEkDiGL3U"></a>
+<img src="https://img.youtube.com/vi/QMqEkDiGL3U/maxresdefault.jpg">
+
+</div>
+</section>
+
+</body>
+
+</html>
 
 

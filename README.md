@@ -25,8 +25,7 @@
             title="YouTube video player" frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
-</section>
+   
 <section class="categoria">
 <h2>Escolha seu conteúdo</h2>
 <div class="categoria-videos">
